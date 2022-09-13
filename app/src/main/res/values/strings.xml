@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM_Practice</string>
+    <string name="check_in">Check-in</string>
+    <string name="check_out">Check-out</string>
+    <string name="check_in_id">Check-in ID:</string>
+    <string name="check_in_description">Click to start check-in</string>
+    <string name="total_time">Total Time:</string>
+</resources>
